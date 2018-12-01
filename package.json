@@ -1,0 +1,14 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "Translates a timestamp into its date and reversed. If no parameter is provided, return the current datetime. ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "AmbryN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
