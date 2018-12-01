@@ -12,7 +12,7 @@ For instance :
 ## Getting Started
 
 * Clone the repository
-* Try
+* Try out any of the upper urls
 
 
 ## Built With
